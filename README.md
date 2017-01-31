@@ -1,2 +1,1 @@
-# pizzaShop
-Django Pizza website
+This is a test website learning Django
